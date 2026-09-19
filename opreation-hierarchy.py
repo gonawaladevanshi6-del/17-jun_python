@@ -1,3 +1,4 @@
+# 15/09/2026
 # () - parentheses
 # ** - power
 # *,/,//,% - multiply, divide, floor division, modules - left to right
@@ -8,7 +9,7 @@
 # and -> AND
 # or -> OR
 print(3*10 /2)
-print((3*10) /2) #15 hi aayega per () pehele excute hoga  as per rule
+print((3*10) /2) #15 hi aayega per ()-parentheses pehele excute hoga  as per rule
 print(45 % 10 /2) #left to right pehle mod hoga fir divide
 print(True and not False)
 
@@ -20,7 +21,7 @@ if a>10:
       print("Bla")
 else:
    print(a)
-   print('1234')
+   print('1234') # this is output because in first if a[5] is not grater than 10 so run else 
 
 # ittratiion while condition
 print("Five")
@@ -36,10 +37,10 @@ update variable
 '''
 # while
 # print numbers from 1 to 15
-# count = 1 #give any variable name 
+# count = 1 # starting valsue of variable value (give any variable name) 
 # while(count<=15):
 #    print(count)
-#    count+=1
+#    count+=1 
 
 # break
 # count = 1
