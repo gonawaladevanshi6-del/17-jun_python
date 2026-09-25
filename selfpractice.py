@@ -136,9 +136,15 @@
 # else:
 #     print("Not a Leap Year")
 
+for i in range(10):
+    print(i)
 
         
+for i in range(1, 101):
+    print(i)
 
+for i in list(range(0, 2)):
+    print("Hello my name is Devanshi")
 
 
  

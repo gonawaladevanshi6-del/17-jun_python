@@ -21,7 +21,7 @@ if a>10:
       print("Bla")
 else:
    print(a)
-   print('1234') # this is output because in first if a[5] is not grater than 10 so run else 
+   print('1234') # this is output because in first if a[5] is not grater than 10 and if 1st condition wrong so statement not check the if 2nd conditionso run else 
 
 # ittratiion while condition
 print("Five")
